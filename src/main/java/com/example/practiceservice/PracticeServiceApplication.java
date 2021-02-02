@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PracticeServiceApplication {
 
     public static void main(String[] args) {
-        System.out.println("hello new");
+        System.out.println("hello new2");
         SpringApplication.run(PracticeServiceApplication.class, args);
     }
 
